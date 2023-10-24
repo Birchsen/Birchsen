@@ -1,4 +1,1 @@
-- 👋 I'm @Birchsen. I'm a software developer from Copenhagen.
-- 👀 I love developing new and challenging stuff, I'm currently working as a backend developer, primarily developing large C# .NET Core application.
-- 🌱 I’m currently learning Docker, Dapper and cloud stuff
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/jaybjay/
+👋
